@@ -1,4 +1,4 @@
-# Entry 1
+# Entry 1: Getting started!
 ##### 11/4/2020
 
 This year for the course APCSA, students will be working on their freedom project. The freedom project is a year-long project where students will implement different tools to create applications. We will also be using Java to code the fundamentals for this project and create a solution to an existing problem that hinders the daily lives of individuals.
